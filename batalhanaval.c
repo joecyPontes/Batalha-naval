@@ -49,7 +49,7 @@ do{
     
     default:
         printf("Insíra uma opção válida.\n");
-        break;
+        
     }
 } while (menu!=0);
 printf("Desligando...");
